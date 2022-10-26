@@ -3,9 +3,9 @@
 
 # Temos 3 arquivos
 <ol>
-<li>recebe_audio.py: Escuta o audio e transcreve.</li>
-<li>transcreve_audio.py: Pega o audio transcrevido, e torna em audio.</li>
-<li>muda_extensao_audio.py: Muda a extensao caso nescessario.</li>
+<li><b>recebe_audio.py</b>:  Escuta o audio e transcreve.</li>
+<li><b>transcreve_audio.py</b>:  Pega o audio transcrevido, e torna em audio.</li>
+<li><b>muda_extensao_audio.py</b>:  Muda a extensao caso nescessario.</li>
 </ol>
 
 <b>Somente o arquivo "trancreve_audio.py" depende do arquivo "recebe_audio.py" 
